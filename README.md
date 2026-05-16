@@ -36,7 +36,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samshady&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samshady&theme=dark&hide_border=true&background=0D1117" height="170" />
 </div>
 
@@ -70,7 +69,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sameer-rana-419672211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/samshady"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
