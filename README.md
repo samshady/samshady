@@ -6,12 +6,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Working Student - Software Development** at Cargobeamer AG (Leipzig), building full-stack prototypes, data pipelines, and AI workflows
+- 💻 **Working Student - Software Development** at Cargobeamer AG (Leipzig)
 - 🎓 **Computer Science (B.Sc.)** at Martin Luther University Halle-Wittenberg
-- 🏗️ Built a rail planning tool replacing manual Excel processes (Flask, PostgreSQL, Konva.js)
-- 🤖 Implemented AI workflows using LangChain and GPT-4 for automated metadata migration
-- 🐳 Experienced with Docker, CI/CD, async scraping pipelines, and cloud infrastructure (Cloudflare R2)
-- 📱 Also create Android icon pack apps on Google Play (Kotlin, Fastlane)
+- 📱 **Android Icon Pack Developer** — 8 icon packs on Google Play (iOS, Pixel, One UI, MIUI, Huawei, OnePlus, Nothing, Oppo)
+- 🏗️ Building full-stack prototypes, data pipelines, and AI workflows in my day-to-day
+- 🐳 Docker, CI/CD, async scraping, cloud infrastructure
 
 ---
 
@@ -37,26 +36,33 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samshady&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samshady&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" height="170" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samshady&theme=dark&hide_border=true&background=0D1117" height="170" />
 </div>
 
 ---
 
-## 🔭 Featured Projects
+## 📱 Android Icon Packs
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **Rail Planning Tool** | Web-based prototype replacing manual Excel-based train planning | Flask, PostgreSQL, Konva.js, Docker |
-| **Data Scraping Pipeline** | Async extraction of dynamic portal data to cloud storage | FastAPI, Playwright, Cloudflare R2, boto3 |
-| **AI Metadata Migration** | Intelligent categorization of unstructured file server metadata | LangChain, GPT-4, Python |
-| **iOS Icon Pack** | 17,000+ iOS-style icons for Android | Kotlin, Android, Fastlane |
-| **Pixel Icon Pack** | 17,000+ Pixel-style icons for Android | Kotlin, Android, Fastlane |
-| **One UI Icon Pack** | 12,000+ Samsung One UI icons for Android | Kotlin, Android, Fastlane |
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>iOS Icon Pack</b><br/>17,000+ iOS style icons</td>
+      <td align="center"><b>Pixel Icon Pack</b><br/>17,000+ Pixel style icons</td>
+      <td align="center"><b>One UI Icon Pack</b><br/>12,000+ Samsung style icons</td>
+    </tr>
+    <tr>
+      <td align="center"><b>MIUI Icon Pack</b><br/>Xiaomi MIUI style</td>
+      <td align="center"><b>Huawei Icon Pack</b><br/>Huawei EMUI style</td>
+      <td align="center"><b>OnePlus Icon Pack</b><br/>OnePlus style</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Nothing Icon Pack</b><br/>Nothing OS style</td>
+      <td align="center"><b>Oppo Icon Pack</b><br/>Oppo ColorOS style</td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
