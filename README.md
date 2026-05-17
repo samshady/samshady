@@ -33,14 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samshady&theme=dark&hide_border=true&background=0D1117" height="170" />
-</div>
-
----
-
 ## 📱 Android Icon Packs
 
 <div align="center">
