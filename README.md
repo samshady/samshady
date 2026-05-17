@@ -8,7 +8,7 @@
 
 - 💻 **Working Student - Software Development** at Cargobeamer AG (Leipzig)
 - 🎓 **Computer Science (B.Sc.)** at Martin Luther University Halle-Wittenberg
-- 📱 **Android Icon Pack Developer** — 8 icon packs on Google Play (iOS, Pixel, One UI, MIUI, Huawei, OnePlus, Nothing, Oppo)
+- 📱 Developing Android icon pack apps on Google Play
 - 🏗️ Building full-stack prototypes, data pipelines, and AI workflows in my day-to-day
 - 🐳 Docker, CI/CD, async scraping, cloud infrastructure
 
@@ -33,33 +33,10 @@
 
 ---
 
-## 📱 Android Icon Packs
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>iOS Icon Pack</b><br/>17,000+ iOS style icons</td>
-      <td align="center"><b>Pixel Icon Pack</b><br/>17,000+ Pixel style icons</td>
-      <td align="center"><b>One UI Icon Pack</b><br/>12,000+ Samsung style icons</td>
-    </tr>
-    <tr>
-      <td align="center"><b>MIUI Icon Pack</b><br/>Xiaomi MIUI style</td>
-      <td align="center"><b>Huawei Icon Pack</b><br/>Huawei EMUI style</td>
-      <td align="center"><b>OnePlus Icon Pack</b><br/>OnePlus style</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Nothing Icon Pack</b><br/>Nothing OS style</td>
-      <td align="center"><b>Oppo Icon Pack</b><br/>Oppo ColorOS style</td>
-      <td></td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
+  <a href="https://samrana.de"><img src="https://img.shields.io/badge/Website-samrana.de-2EBD63?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sameer-rana-419672211/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
