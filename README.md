@@ -33,15 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samshady&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api?username=samshady&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&count_private=true&cache_seconds=1800" height="170" />
-</div>
-
----
-
 ## 📱 Android Icon Packs
 
 <div align="center">
